@@ -1,0 +1,15 @@
+﻿  Assembling Source.asm...
+C:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+Source.asm(20): error A2004: symbol type conflict : ExitProcess
+Source.asm(280): error A2008: syntax error : ,
+Source.asm(317): error A2008: syntax error : ,
+Source.asm(325): error A2008: syntax error : ,
+Source.asm(363): error A2008: syntax error : ,
+Source.asm(31): error A2206: missing operator in expression
+Source.asm(79): error A2006: undefined symbol : VK_Q
+Source.asm(155): error A2006: undefined symbol : VK_Q
+Source.asm(225): error A2006: undefined symbol : VK_Q
+Source.asm(299): error A2006: undefined symbol : VK_Q
+Source.asm(345): error A2006: undefined symbol : VK_Q
+Source.asm(439): error A2006: undefined symbol : VK_Q
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
